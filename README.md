@@ -29,12 +29,12 @@ O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar 
 
 * Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/codigo-fonte/pages/home/home.html">aqui</a> para acessar o site.
 
-# Instrução de Acesso:
+# Instrução de Acesso
 
-* Para logar no Projeto VAT como Administrador do site, basta clicar no link acima, acessar a Tela de Login e adicionar os dados abaixo. 
-
-Login: admin@projetovat.com.br
-Senha: 123456
+* Para logar no Projeto VAT como Administrador do site, basta clicar no link acima, acessar a Tela de Login e adicionar os dados abaixo.
+  
+**Login:** admin@projetovat.com.br  
+**Senha:** 123456
 
 # Código-Fonte
 
