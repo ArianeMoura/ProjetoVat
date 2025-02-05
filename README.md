@@ -1,17 +1,38 @@
+<div align="center">
+  
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/assets/145401784/088dda45-5362-44c1-bf35-bc3a821becf0)
 
+</div>
 
-# Projeto VAT - Vida, Arte e Tecnologia
+<br>
 
+<h1 align="center">
+Projeto VAT - Vida, Arte e Tecnologia
+</h1>
+
+<br>
+
+<div align="center">
+  
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
 `Desenvolvimento de Aplicação Web Front-end`
 
 `1º semestre/2024`
 
-O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar doadores e voluntários a instituições sociais, facilitando o processo de doações e o trabalho voluntário. 
+</div>
 
-# Documentação
+<br>
+
+### ✨ Sobre o Projeto
+O **Projeto VAT** é uma aplicação web desenvolvida para conectar doadores e voluntários a instituições sociais, facilitando tanto o processo de doações quanto a organização de ações voluntárias. A plataforma busca promover impacto social positivo ao aproximar pessoas que desejam contribuir para causas sociais de instituições que precisam de apoio.
+
+Com uma interface amigável e intuitiva, o VAT permite que os usuários explorem oportunidades para doações de bens, recursos financeiros e até mesmo seu tempo, incentivando o trabalho voluntário e o fortalecimento das organizações sociais.
+
+<br>
+
+### 📂 Documentação
+A seguir, estão os materiais desenvolvidos para o projeto:
 
 <ol>
 <li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -25,18 +46,41 @@ O Projeto consiste no desenvolvimento de uma Aplicação Web, que visa conectar 
 <li><a href="documentos/09-Referências Bibliográficas.md"> Referências Bibliográficas</a></li>
 </ol>
 
-# Hospedagem
+<br>
+
+### 🚀 Tecnologias e Metodologia Ágil 
+Este projeto foi desenvolvido utilizando as seguintes tecnologias e metodologia ágil:
+
+– **HTML e CSS:** Para a estrutura semântica e o design responsivo da interface, garantindo uma experiência amigável ao usuário.
+
+– **JavaScript:** Para implementação de funcionalidades interativas e dinâmicas no front-end.
+
+– **Figma:** Utilizado para o design de interface, criação de protótipos e validação visual.
+
+– **Git e GitHub:** Para controle de versão eficiente, integração contínua e colaboração entre os desenvolvedores.
+
+– **SCRUM**: Metodologia ágil aplicada para organizar e planejar o desenvolvimento do projeto, com foco na comunicação, entregas incrementais e adaptação a mudanças.
+
+<br>
+
+### 🌐 Hospedagem
 
 Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t11-pmv-ads-2024-1-e1-projetovat/codigo-fonte/pages/home/home.html">aqui</a> para acessar o site.
 
-# Instrução de Acesso
+<br>
 
-Para logar no Projeto VAT como Administrador do site, basta clicar no link acima, acessar a Tela de Login e adicionar os dados abaixo.
+### 📲 Instrução de Acesso
+
+Para logar no Projeto VAT como **Administrador** do site, basta clicar no link acima, acessar a Tela de Login e utilizar as credenciais abaixo:
   
 - **Login:** admin@projetovat.com.br  
 - **Senha:** 123456
 
-# Código-Fonte
+<br>
+
+### 📦 Código-Fonte
 
 <a href="codigo-fonte/README.md">Código Fonte</a>
+
+
 
