@@ -86,7 +86,7 @@ Para logar no Projeto VAT como **Administrador** do site, basta clicar no link a
 
 ### 🏆 Certificado de Destaque
 
-<br>
+
 
 <div align="center">
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/0a7b7eb5-0fda-47fa-a70d-fb4579527fe9" />
