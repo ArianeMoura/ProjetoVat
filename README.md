@@ -16,7 +16,7 @@ Projeto VAT - Vida, Arte e Tecnologia
   
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`Desenvolvimento de Aplicação Web Front-end`
+`Projeto: Desenvolvimento de Aplicação Web Front-end`
 
 `1º semestre/2024`
 
