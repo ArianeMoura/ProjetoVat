@@ -12,7 +12,7 @@
 
 </div>
 
-O **Projeto VAT** é uma aplicação web desenvolvida para conectar doadores e voluntários a instituições sociais, facilitando tanto o processo de doações quanto a organização de ações voluntárias. A plataforma busca promover impacto social positivo ao aproximar pessoas que desejam contribuir para causas sociais de instituições que precisam de apoio. Com uma interface amigável e intuitiva, o VAT permite que os usuários explorem oportunidades para doações de bens, recursos financeiros e até mesmo seu tempo, incentivando o trabalho voluntário e o fortalecimento das organizações sociais.
+O **Projeto VAT** é uma aplicação web desenvolvida para **conectar doadores e voluntários a instituições sociais**, facilitando tanto o processo de doações quanto a organização de ações voluntárias. A plataforma busca promover impacto social positivo ao aproximar pessoas que desejam contribuir para causas sociais de instituições que precisam de apoio. Com uma interface amigável e intuitiva, o VAT permite que os usuários explorem oportunidades para doações de bens, recursos financeiros e até mesmo seu tempo, **incentivando o trabalho voluntário** e o **fortalecimento das organizações sociais**.
 
 ### Documentação
 <ol>
